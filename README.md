@@ -19,11 +19,6 @@ Export
 Use web UI to download PDF or PPTX.
 
 
-Commit and push:
-```powershell
-git add README.md .gitignore
-git commit -m "Add README and .gitignore"
-git push
-```
+
 
    

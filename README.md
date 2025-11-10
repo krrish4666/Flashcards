@@ -25,11 +25,5 @@ git add README.md .gitignore
 git commit -m "Add README and .gitignore"
 git push
 ```
-5.  Common extras you might want
 
-Create a requirements.txt (you already have one) and include a short setup.sh or Makefile.
-
-Add GitHub Actions CI (optional) to run linting/tests.
-
-Add .gitattributes to normalize line endings if collaborators are on Windows.
    

@@ -1,0 +1,63 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs, editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging/build
+build/
+dist/
+*.egg-info/
+
+# Logs, coverage, test output
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Installed packages
+pip-wheel-metadata/
+*.whl
+
+# Secrets and keys
+*.pem
+*.key
+*.crt
+secrets.json
+
+# Uploaded/Generated files
+uploads/
+*.db
+*.sqlite3
+
+# Office / large binary outputs you don't want tracked
+*.pptx
+*.pdf
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Misc
+coverage.xml
+instance/
